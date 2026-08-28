@@ -10,6 +10,7 @@ output:
     toc_float: yes
 ---
 
+* 2026/08/28: Added slidedecks for [BBS Hybrid Seminar: Digital Endpoints Development: Overcoming Methodological Challenges in Neuroscience](events_past.html#digital-endpoints-development-overcoming-methodological-challenges-in-neuroscience).
 * 2026/08/10: Uploaded first annnouncement for [BBS Course: Data Monitoring Committees](events_upcoming.html).
 * 2026/06/14: Uploaded first announcement for [BBS SR Webinar: DAI Engineering and AI Coding Assistants](events_upcoming.html).
 * 2026/05/29: Uploaded first announcement for [BBS Hybrid Seminar: Digital Endpoints Development: Overcoming Methodological Challenges in Neuroscience](events_upcoming.html).
